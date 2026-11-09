@@ -1,0 +1,17 @@
+{
+  "name": "qa-suite-plugin",
+  "owner": {
+    "name": "Daniel Giese Rodrigues"
+  },
+  "metadata": {
+    "description": "QA suite by real clicks, run before handing a delivery to the QA team."
+  },
+  "plugins": [
+    {
+      "name": "qa-suite",
+      "source": "./plugins/qa-suite",
+      "description": "Learns how your QA tests from their Jira bugs, builds a scenario matrix (profiles x editions x cultures x widths), clicks every row for real, fixes what it finds and reports in the QA's own bug format.",
+      "version": "0.1.0"
+    }
+  ]
+}

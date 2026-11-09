@@ -1,0 +1,8 @@
+{
+  "name": "qa-suite",
+  "description": "QA suite by real clicks, run on finished code before handing a delivery to the QA team: matrix of intersections, real clicks, fixes with tests, second pass until nothing is left untested.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Daniel Giese Rodrigues"
+  }
+}
